@@ -9,6 +9,8 @@
   title {color:rgb(234, 231, 225);}
   h1 {font-size:90px; font-family:courier; background-color:rgb(234, 231, 225);}
   p {color:magenta; font-size:300%;}
+</style> 
+ 
 <title>Page title Killer</title>
 <button>Click me</button>
 </head>
